@@ -1,0 +1,1 @@
+Project for hosting code for tutorials on Android NDK and related concepts.
